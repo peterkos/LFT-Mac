@@ -457,6 +457,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D9F8C55016A2C3EDBD9BC93B /* Pods-LinusForumTips.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = CAUV8X6AAP;
@@ -472,6 +473,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 12B0563E5905436E1BA4D334 /* Pods-LinusForumTips.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = CAUV8X6AAP;
@@ -536,6 +538,7 @@
 				0EF23A5F1E340CFA007E3AC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0EF23A601E340CFA007E3AC4 /* Build configuration list for PBXNativeTarget "LinusForumTipsTests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +547,7 @@
 				0EF23A621E340CFA007E3AC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
