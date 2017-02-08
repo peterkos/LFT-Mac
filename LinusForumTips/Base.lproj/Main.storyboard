@@ -668,6 +668,7 @@
                         <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES" unifiedTitleAndToolbar="YES"/>
                         <rect key="contentRect" x="196" y="240" width="729" height="463"/>
                         <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1027"/>
+                        <value key="minSize" type="size" width="729" height="463"/>
                         <toolbar key="toolbar" implicitIdentifier="A27D417B-A1EB-44E2-A549-97BDD162507D" autosavesConfiguration="NO" displayMode="iconAndLabel" sizeMode="regular" id="rT1-DQ-EF9">
                             <allowedToolbarItems>
                                 <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="9YK-Do-iBp"/>
