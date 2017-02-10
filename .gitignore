@@ -18,7 +18,10 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
+
+## Custom 
 LinusForumTips.xcworkspace/xcuserdata/
+Pods/Pods.xcodeproj/xcuserdata/
 
 ## Other
 *.moved-aside
