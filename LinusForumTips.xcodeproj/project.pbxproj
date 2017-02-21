@@ -14,6 +14,8 @@
 		0EF23A4E1E340CFA007E3AC4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EF23A4C1E340CFA007E3AC4 /* Main.storyboard */; };
 		0EF23A591E340CFA007E3AC4 /* LinusForumTipsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF23A581E340CFA007E3AC4 /* LinusForumTipsTests.swift */; };
 		68CE0B0D7FB0F7B7172A0688 /* Pods_LinusForumTips.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19E5D3A93B8F2EDF5CBD8EEB /* Pods_LinusForumTips.framework */; };
+		92C15B5E1E5C4F8F001DEBF2 /* getVideos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C15B5D1E5C4F8F001DEBF2 /* getVideos.swift */; };
+		92C15B5F1E5C4F8F001DEBF2 /* getVideos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C15B5D1E5C4F8F001DEBF2 /* getVideos.swift */; };
 		D77352C0611A57E7585C7F7A /* Pods_LinusForumTipsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DB2D24FD4D1751468BAF4E9 /* Pods_LinusForumTipsTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +43,7 @@
 		12B0563E5905436E1BA4D334 /* Pods-LinusForumTips.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinusForumTips.release.xcconfig"; path = "Pods/Target Support Files/Pods-LinusForumTips/Pods-LinusForumTips.release.xcconfig"; sourceTree = "<group>"; };
 		19E5D3A93B8F2EDF5CBD8EEB /* Pods_LinusForumTips.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LinusForumTips.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DB2D24FD4D1751468BAF4E9 /* Pods_LinusForumTipsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LinusForumTipsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		92C15B5D1E5C4F8F001DEBF2 /* getVideos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = getVideos.swift; sourceTree = "<group>"; };
 		9E768090636A847D2897DF9E /* Pods-LinusForumTipsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinusForumTipsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LinusForumTipsTests/Pods-LinusForumTipsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		B79176C20D497F5E690016D7 /* Pods-LinusForumTipsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinusForumTipsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LinusForumTipsTests/Pods-LinusForumTipsTests.release.xcconfig"; sourceTree = "<group>"; };
 		D9F8C55016A2C3EDBD9BC93B /* Pods-LinusForumTips.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinusForumTips.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LinusForumTips/Pods-LinusForumTips.debug.xcconfig"; sourceTree = "<group>"; };
@@ -95,6 +98,7 @@
 				0EF23A4A1E340CFA007E3AC4 /* Assets.xcassets */,
 				0EF23A4C1E340CFA007E3AC4 /* Main.storyboard */,
 				0EF23A4F1E340CFA007E3AC4 /* Info.plist */,
+				92C15B5D1E5C4F8F001DEBF2 /* getVideos.swift */,
 			);
 			path = LinusForumTips;
 			sourceTree = "<group>";
@@ -331,6 +335,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92C15B5E1E5C4F8F001DEBF2 /* getVideos.swift in Sources */,
 				0EF23A491E340CFA007E3AC4 /* ViewController.swift in Sources */,
 				0EF23A471E340CFA007E3AC4 /* AppDelegate.swift in Sources */,
 				0E3E67751E46D80B002B17F0 /* MainWindowController.swift in Sources */,
@@ -341,6 +346,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92C15B5F1E5C4F8F001DEBF2 /* getVideos.swift in Sources */,
 				0EF23A591E340CFA007E3AC4 /* LinusForumTipsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
